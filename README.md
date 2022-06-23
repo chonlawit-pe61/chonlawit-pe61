@@ -1,7 +1,6 @@
 ### Hi there 👋
-- 🔭 i am studying at Bachelor of Science in Technical Education Program in Electrical Engineering
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Nodejs, Nestjs 
-- ⚡ Fun fact play dota2
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
