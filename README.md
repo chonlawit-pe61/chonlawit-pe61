@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
+- 🔭 I’m study at Bachelor of Science in Technical Education Program in Electrical Engineering.
 - 🌱 I’m currently learning Nodejs, Nestjs 
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 <p align="left">
